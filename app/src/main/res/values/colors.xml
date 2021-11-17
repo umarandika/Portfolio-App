@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#5928e5</color>
+    <color name="primaryLightColor">#5928e5</color>
+    <color name="primaryDarkColor">#5928e5</color>
+    <color name="secondaryColor">#ffd9d9</color>
+    <color name="secondaryLightColor">#ffd9d9</color>
+    <color name="secondaryDarkColor">#ffd9d9</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="profile_background">#fff</color>
+    <color name="blue">#1277C0</color>
+</resources>

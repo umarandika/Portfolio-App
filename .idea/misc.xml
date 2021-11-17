@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/drawable/flutter.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/drawable/ic_baseline_web_24.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/drawable/profile.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/drawable/uiux.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/drawable/web.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/activity_main.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/fragment_android.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/fragment_experience.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/fragment_experience_detail.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/fragment_flutter.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/fragment_setting.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/fragment_ui_ux.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/fragment_website.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/item_android.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/item_experience.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/item_website.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/layout/nav_header.xml" value="0.17604166666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PortfolioApp/app/src/main/res/menu/navdrawer_menu.xml" value="0.17604166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
